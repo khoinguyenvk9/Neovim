@@ -2,6 +2,7 @@ local servers = {
   'sumneko_lua',
   'tsserver',
   'jsonls',
+  'tailwindcss',
 }
 
 local settings = {
